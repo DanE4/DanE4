@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://github.com/DanE4/DanE4/assets/90055044/5b1e9446-534f-4a26-8dce-0a9099be38fe)" alt="animated" />
+  <img src="https://github.com/DanE4/DanE4/assets/90055044/5b1e9446-534f-4a26-8dce-0a9099be38fe" alt="animated" />
 </p>
 
 #
