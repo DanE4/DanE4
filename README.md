@@ -1,3 +1,4 @@
+![](https://github.com/DanE4/DanE4/assets/90055044/5b1e9446-534f-4a26-8dce-0a9099be38fe)
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abel&size=25&pause=1000&color=9745F5&width=500&lines=Hello%2C+this+is+Dan%C6%8E%2C+Welcome+to+my+Github+page;Have+a+wonderful+day+%3A)" alt="Typing SVG" /></a>
 # 💻 Tech Stack:
