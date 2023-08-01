@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="animated" />
+  <img src="![blackhole](https://github.com/DanE4/DanE4/assets/90055044/5c4e8fb3-2e1f-4b43-9d28-52c1fa134b63)
+" alt="animated" />
 </p>
 
 #
