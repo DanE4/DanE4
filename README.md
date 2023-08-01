@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="![https://github.com/DanE4/DanE4/assets/90055044/5c4e8fb3-2e1f-4b43-9d28-52c1fa134b63]
-" alt="animated" />
+  <img src="![](https://github.com/DanE4/DanE4/assets/90055044/5c4e8fb3-2e1f-4b43-9d28-52c1fa134b63)" alt="animated" />
 </p>
 
 #
