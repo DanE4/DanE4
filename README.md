@@ -16,5 +16,5 @@
 
 **Client:** <span style="color:#9745F5FF">React, Redux, TailwindCSS</span>
 
-**Server:** <span style="color:#9745F5FF">Node, Express</span>
+**Server:** <span style="color: red;">This text is red.</span>
 
