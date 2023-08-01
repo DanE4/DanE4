@@ -12,4 +12,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dane4&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+**Client:** <span style="color:#9745F5FF">React, Redux, TailwindCSS</span>
+
+**Server:** <span style="color:#9745F5FF">Node, Express</span>
+
