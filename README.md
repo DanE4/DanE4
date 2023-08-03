@@ -11,12 +11,12 @@
 **Backend:**  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,nodejs,nginx,express,grafana&perline=8)](https://skillicons.dev)
 
 
-**Frontend:** ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend:** [![My Skills](https://skillicons.dev/icons?i=svelte,angular,bootstrap,html,css&perline=8)](https://skillicons.dev)
 
-**DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Other tools:** ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+**DevOps:** [![My Skills](https://skillicons.dev/icons?i=docker,aws,kubernetes,heroku&perline=8)](https://skillicons.dev)
 
+**Other tools:** [![My Skills](https://skillicons.dev/icons?i=vscode,idea,swagger,jira,trello,eslint,arduino&perline=8)](https://skillicons.dev)
 
 
 # 🔥 GitHub Stats:
