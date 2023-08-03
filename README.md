@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 **Languages:** [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,bash&perline=8)](https://skillicons.dev)
 
-**Backend:**  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supbabase,deno,node,nginx,express,grafana&perline=8)](https://skillicons.dev)
+**Backend:**  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,node,nginx,express,grafana&perline=8)](https://skillicons.dev)
 
 
 **Frontend:** ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
