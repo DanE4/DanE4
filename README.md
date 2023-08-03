@@ -16,7 +16,7 @@
 
 **Frontend:** 
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,angular,bootstrap,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,svelte,angular,bootstrap,html,css&perline=8)](https://skillicons.dev)
 
 **DevOps:**
 
