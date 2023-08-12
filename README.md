@@ -30,9 +30,9 @@
 
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats-nk7p.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats)
+![Top Langs](https://github-readme-stats-nk7p.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd)
 
-![](https://github-readme-stats.vercel.app/api?username=dane4&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dane4&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dane4&theme=midnight-purple&hide_border=false)<br/>
 
