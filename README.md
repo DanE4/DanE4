@@ -30,7 +30,7 @@
 
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats-eight-rho-13.vercel.app/api/top-langs/?username=dane4&layout=compact)
+![Top Langs](https://github-readme-stats-8xwh-axhgqm2td-dane4.vercel.app/api/top-langs/?username=dane4&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=dane4&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
