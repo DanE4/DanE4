@@ -12,11 +12,11 @@
 
 **Backend:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,nodejs,nginx,express,grafana&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,nodejs,nginx,express,grafana&perline=8)](https://skillicons.dev)
 
 **Frontend:** 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,svelte,angular,bootstrap,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,angular,bootstrap,html,css&perline=8)](https://skillicons.dev)
 
 **DevOps:**
 
