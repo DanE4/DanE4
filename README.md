@@ -20,7 +20,7 @@
 
 **DevOps:**
 
- [![My Skills](https://skillicons.dev/icons?i=docker,aws,kubernetes,heroku&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,heroku&perline=8)](https://skillicons.dev)
 
 **Other tools:** 
 
