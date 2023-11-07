@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/DanE4/DanE4/assets/90055044/5c4e8fb3-2e1f-4b43-9d28-52c1fa134b63" alt="animated" />
-</p>
-
 #
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abel&size=25&pause=1000&color=9745F5&width=500&lines=Hello%2C+this+is+Dan%C6%8E%2C+Welcome+to+my+Github+page;Have+a+wonderful+day+%3A)" alt="Typing SVG" /></a>
 # 💻 Tech Stack:
