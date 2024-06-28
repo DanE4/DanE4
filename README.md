@@ -4,7 +4,7 @@
 # 💻 Tech Stack:
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,cs,py,bash&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,py,bash&perline=8)](https://skillicons.dev)
 
 **Backend:**  
 
