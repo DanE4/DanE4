@@ -8,7 +8,7 @@
 
 **Backend:**  
 
-[![My Skills](https://skillicons.dev/icons?i=spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,nodejs,grafana&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,prisma,sequelize,selenium,hibernate,postgres,mysql,mongodb,redis,supabase,deno,nodejs&perline=8)](https://skillicons.dev)
 
 **Frontend:** 
 
@@ -16,7 +16,7 @@
 
 **DevOps:**
 
- [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,heroku&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,heroku&perline=8)](https://skillicons.dev)
 
 **Other tools:** 
 
