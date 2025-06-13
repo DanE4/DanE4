@@ -24,7 +24,7 @@
 
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats-nk7p.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW)
+![Top Langs](https://github-readme-stats-nine-delta-67.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dane4&theme=midnight-purple&hide_border=false)<br/>
 
