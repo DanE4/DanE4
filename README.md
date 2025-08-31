@@ -26,8 +26,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dane4&theme=midnight-purple&hide_border=false)<br/>
 
-**GitHub Contributions:**  
-![Merged PRs](https://img.shields.io/github/issues-pr-closed-raw/dane4?style=for-the-badge&color=9745F5&label=Merged%20PRs)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dane4&icon=5&color=12)](https://visitcount.itsvg.in)
