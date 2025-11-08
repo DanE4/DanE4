@@ -17,10 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,heroku&perline=8)](https://skillicons.dev)
 
-**Other tools:** 
-
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats-nine-delta-67.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW)
 
