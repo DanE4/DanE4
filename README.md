@@ -1,6 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abel&size=25&pause=1000&color=9745F5&width=500&lines=Hello%2C+this+is+Dan%C6%8E%2C+Welcome+to+my+Github+page;Have+a+wonderful+day+%3A)" alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
+#Tech Stack:
 **Languages:**
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,java,py&perline=8)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,heroku&perline=8)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+#GitHub Stats:
 ![Top Langs](https://github-readme-stats-nine-delta-67.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dane4&theme=midnight-purple&hide_border=false)<br/>
