@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,heroku&perline=8)](https://skillicons.dev)
 
 # GitHub Stats:
-![Top Langs](https://github-readme-stats-nine-delta-67.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW,eth-qhack26-prep,ETHZ-QHACK-2026-IQM)
+![Top Langs](https://github-readme-stats-nine-delta-67.vercel.app/api/top-langs/?username=dane4&layout=compact&theme=midnight-purple&hide_border=false&exclude_repo=github-readme-stats,ezd,Pys,BKW,eth-qhack26-prep,ETHZ-QHACK-2026-IQM,ETHZ-QHACK26)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dane4&theme=midnight-purple&hide_border=false)<br/>
 
